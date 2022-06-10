@@ -1,10 +1,14 @@
 
+body {
+    background-color: black;
+}
+
 #container {
     text-align: center;
 }
 
 h1{
-    
+
 }
 
 #header-link {
